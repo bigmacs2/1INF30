@@ -1,0 +1,7 @@
+G:\Mi unidad\GitHubRepositorio\1INF30\0684\sesión01 - introducción\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+G:\Mi unidad\GitHubRepositorio\1INF30\0684\sesión01 - introducción\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+G:\Mi unidad\GitHubRepositorio\1INF30\0684\sesión01 - introducción\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+G:\Mi unidad\GitHubRepositorio\1INF30\0684\sesión01 - introducción\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+G:\Mi unidad\GitHubRepositorio\1INF30\0684\sesión01 - introducción\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+G:\Mi unidad\GitHubRepositorio\1INF30\0684\sesión01 - introducción\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+G:\Mi unidad\GitHubRepositorio\1INF30\0684\sesión01 - introducción\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
