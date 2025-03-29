@@ -1,0 +1,7 @@
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión02.b - POO (clase adicional)\C#\Publicaciones_v03\Publicaciones_v03\bin\Debug\Publicaciones_v02.exe.config
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión02.b - POO (clase adicional)\C#\Publicaciones_v03\Publicaciones_v03\bin\Debug\Publicaciones_v02.exe
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión02.b - POO (clase adicional)\C#\Publicaciones_v03\Publicaciones_v03\bin\Debug\Publicaciones_v02.pdb
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión02.b - POO (clase adicional)\C#\Publicaciones_v03\Publicaciones_v03\obj\Debug\Publicaciones_v03.csproj.AssemblyReference.cache
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión02.b - POO (clase adicional)\C#\Publicaciones_v03\Publicaciones_v03\obj\Debug\Publicaciones_v03.csproj.CoreCompileInputs.cache
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión02.b - POO (clase adicional)\C#\Publicaciones_v03\Publicaciones_v03\obj\Debug\Publicaciones_v02.exe
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión02.b - POO (clase adicional)\C#\Publicaciones_v03\Publicaciones_v03\obj\Debug\Publicaciones_v02.pdb
