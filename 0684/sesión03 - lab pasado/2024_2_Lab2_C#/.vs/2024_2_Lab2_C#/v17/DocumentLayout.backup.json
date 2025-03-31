@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\obrateatral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\obrateatral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\concierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\concierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\tipoconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\tipoconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\tipolocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\tipolocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_lab2_c#\\2024_2_lab2_c#\\infoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4393A819-463F-48D4-AE42-3EEFDE3BF231}|2024_2_Lab2_C#\\2024_2_Lab2_C#.csproj|solutionrelative:2024_2_lab2_c#\\infoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoConcierto.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\TipoConcierto.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\TipoConcierto.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\TipoConcierto.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\TipoConcierto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:36:08.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObraTeatral.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\ObraTeatral.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\ObraTeatral.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\ObraTeatral.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\ObraTeatral.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:32:49.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Concierto.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Concierto.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\Concierto.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Concierto.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\Concierto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:32:35.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productora.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Productora.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\Productora.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Productora.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\Productora.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:31:41.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Principal.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\Principal.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Principal.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\Principal.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:29:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Artista.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\Artista.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Artista.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\Artista.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:32:05.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Local.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Local.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\Local.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Local.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\Local.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:31:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Evento.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\Evento.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Evento.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\Evento.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:31:53.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Funcion.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Funcion.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\Funcion.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\Funcion.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\Funcion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:32:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoLocal.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\TipoLocal.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\TipoLocal.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\TipoLocal.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\TipoLocal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:35:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDataProvider.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\IDataProvider.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\IDataProvider.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\IDataProvider.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\IDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:34:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InfoProvider.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\InfoProvider.cs",
+              "RelativeDocumentMoniker": "2024_2_Lab2_C#\\InfoProvider.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0684\\sesi\u00F3n03 - lab pasado\\2024_2_Lab2_C#\\2024_2_Lab2_C#\\InfoProvider.cs",
+              "RelativeToolTip": "2024_2_Lab2_C#\\InfoProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:34:35.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
