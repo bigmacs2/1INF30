@@ -1,0 +1,7 @@
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión03 - lab pasado\2024_2_Lab02_C#\2024_2_Lab02_C#\bin\Debug\2024_2_Lab02_C#.exe.config
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión03 - lab pasado\2024_2_Lab02_C#\2024_2_Lab02_C#\bin\Debug\2024_2_Lab02_C#.exe
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión03 - lab pasado\2024_2_Lab02_C#\2024_2_Lab02_C#\bin\Debug\2024_2_Lab02_C#.pdb
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión03 - lab pasado\2024_2_Lab02_C#\2024_2_Lab02_C#\obj\Debug\2024_2_Lab02_C#.csproj.AssemblyReference.cache
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión03 - lab pasado\2024_2_Lab02_C#\2024_2_Lab02_C#\obj\Debug\2024_2_Lab02_C#.csproj.CoreCompileInputs.cache
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión03 - lab pasado\2024_2_Lab02_C#\2024_2_Lab02_C#\obj\Debug\2024_2_Lab02_C#.exe
+G:\Mi unidad\GitHubRepositorio\1INF30\0682\sesión03 - lab pasado\2024_2_Lab02_C#\2024_2_Lab02_C#\obj\Debug\2024_2_Lab02_C#.pdb
