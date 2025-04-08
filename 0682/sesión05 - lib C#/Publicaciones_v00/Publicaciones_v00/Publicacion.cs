@@ -8,7 +8,7 @@ using System.Runtime.Remoting.Metadata.W3cXsd2001;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Publicaciones_v01
+namespace Publicaciones_v00
 {
 
     internal abstract class Publicacion

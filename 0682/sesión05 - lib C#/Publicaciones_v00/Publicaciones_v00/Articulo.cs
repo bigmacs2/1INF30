@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Publicaciones_v01
+namespace Publicaciones_v00
 {
     internal class Articulo: Publicacion
     {

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0682\\sesi\u00F3n05 - lib c#\\publicaciones_v02\\publicaciones_v02\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|solutionrelative:publicaciones_v02\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0682\\sesi\u00F3n05 - lib c#\\publicaciones_v02\\publicaciones_v02\\publicaciones\\estandardapa\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|solutionrelative:publicaciones_v02\\publicaciones\\estandardapa\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0682\\sesi\u00F3n05 - lib c#\\publicaciones_v02\\publicaciones_v02\\publicaciones\\estandardapa\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|solutionrelative:publicaciones_v02\\publicaciones\\estandardapa\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0682\\sesi\u00F3n05 - lib c#\\publicaciones_v02\\publicaciones_v02\\publicaciones\\estandardapa\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|solutionrelative:publicaciones_v02\\publicaciones\\estandardapa\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0682\\sesi\u00F3n05 - lib c#\\publicaciones_v02\\publicaciones_v02\\publicaciones\\estandardieee\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|solutionrelative:publicaciones_v02\\publicaciones\\estandardieee\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0682\\sesi\u00F3n05 - lib c#\\publicaciones_v02\\publicaciones_v02\\publicaciones\\estandardieee\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|solutionrelative:publicaciones_v02\\publicaciones\\estandardieee\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0682\\sesi\u00F3n05 - lib c#\\publicaciones_v02\\publicaciones_v02\\publicaciones\\estandardieee\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|solutionrelative:publicaciones_v02\\publicaciones\\estandardieee\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|g:\\mi unidad\\githubrepositorio\\1inf30\\0682\\sesi\u00F3n05 - lib c#\\publicaciones_v02\\publicaciones_v02\\publicaciones\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v02\\Publicaciones_v02.csproj|solutionrelative:publicaciones_v02\\publicaciones\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tesis.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardAPA\\Tesis.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v02\\Publicaciones\\EstandardAPA\\Tesis.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardAPA\\Tesis.cs",
+              "RelativeToolTip": "Publicaciones_v02\\Publicaciones\\EstandardAPA\\Tesis.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwEYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:53:10.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardAPA\\Libro.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v02\\Publicaciones\\EstandardAPA\\Libro.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardAPA\\Libro.cs",
+              "RelativeToolTip": "Publicaciones_v02\\Publicaciones\\EstandardAPA\\Libro.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:53:07.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardAPA\\Articulo.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v02\\Publicaciones\\EstandardAPA\\Articulo.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardAPA\\Articulo.cs",
+              "RelativeToolTip": "Publicaciones_v02\\Publicaciones\\EstandardAPA\\Articulo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:51:45.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Principal.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v02\\Principal.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Principal.cs",
+              "RelativeToolTip": "Publicaciones_v02\\Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:51:25.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tesis.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Tesis.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Tesis.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Tesis.cs",
+              "RelativeToolTip": "Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Tesis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:50:52.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Libro.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Libro.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Libro.cs",
+              "RelativeToolTip": "Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:50:50.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Articulo.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Articulo.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Articulo.cs",
+              "RelativeToolTip": "Publicaciones_v02\\Publicaciones\\EstandardIEEE\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:49:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\Publicacion.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v02\\Publicaciones\\Publicacion.cs",
+              "ToolTip": "G:\\Mi unidad\\GitHubRepositorio\\1INF30\\0682\\sesi\u00F3n05 - lib C#\\Publicaciones_v02\\Publicaciones_v02\\Publicaciones\\Publicacion.cs",
+              "RelativeToolTip": "Publicaciones_v02\\Publicaciones\\Publicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:42:46.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
