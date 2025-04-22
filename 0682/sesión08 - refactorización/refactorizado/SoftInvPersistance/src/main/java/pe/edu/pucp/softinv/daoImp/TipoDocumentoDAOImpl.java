@@ -1,28 +1,30 @@
 package pe.edu.pucp.softinv.daoImp;
 
-import java.sql.CallableStatement;
-import java.sql.Connection;
-import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import pe.edu.pucp.softinv.dao.TipoDocumentoDAO;
+import pe.edu.pucp.softinv.daoImp.util.Columna;
 import pe.edu.pucp.softinv.db.DBManager;
 import pe.edu.pucp.softinv.model.TiposDocumentosDTO;
 
-public class TipoDocumentoDAOImpl implements TipoDocumentoDAO {
+public class TipoDocumentoDAOImpl extends DAOImplBase implements TipoDocumentoDAO {
 
-    private Connection conexion;
-    private CallableStatement statement;
-    protected ResultSet resultSet;
-
+    public TipoDocumentoDAOImpl(){
+        super("INV_TIPOS_DOCUMENTOS");
+    }
+    
+    @Override
+    protected void configurarListaDeColumna() {
+        this.listaColumnas.add(new Columna("TIPO_DOCUMENTO_ID", true, false));
+        this.listaColumnas.add(new Columna("NOMBRE", false, false));
+    }
+    
     @Override
     public Integer insertar(TiposDocumentosDTO tipoDocumento) {
         int resultado = 0;
         try {
             this.conexion = DBManager.getInstance().getConnection();
             this.conexion.setAutoCommit(false);
-            String sql = "INSERT INTO INV_TIPOS_DOCUMENTOS (TIPO_DOCUMENTO_ID, NOMBRE) VALUES (?,?)";
+            String sql = this.generarSQLParaInsercion();
             this.statement = this.conexion.prepareCall(sql);
             this.statement.setInt(1, tipoDocumento.getTipoDocumentoId());
             this.statement.setString(2, tipoDocumento.getNombre());
@@ -55,7 +57,7 @@ public class TipoDocumentoDAOImpl implements TipoDocumentoDAO {
         try {
             this.conexion = DBManager.getInstance().getConnection();
             this.conexion.setAutoCommit(false);
-            String sql = "DELETE FROM INV_TIPOS_DOCUMENTOS WHERE TIPO_DOCUMENTO_ID=?";
+            String sql = this.generarSQLParaEliminacion();
             this.statement = this.conexion.prepareCall(sql);
             this.statement.setInt(1, tipoDocumento.getTipoDocumentoId());
             resultado = this.statement.executeUpdate();
