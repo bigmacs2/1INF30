@@ -1,0 +1,4 @@
+pe\edu\pucp\softven\dao\ProductoDAO.class
+pe\edu\pucp\softven\daoImp\ProductoDAOImpl.class
+pe\edu\pucp\softven\dao\TipoDocumentoDAO.class
+pe\edu\pucp\softven\daoImp\TipoDocumentoDAOImpl.class
