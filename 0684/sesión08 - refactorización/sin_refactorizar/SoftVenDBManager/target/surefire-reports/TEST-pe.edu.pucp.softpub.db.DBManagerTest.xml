@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="1" name="pe.edu.pucp.softpub.db.DBManagerTest" time="0.366" errors="0" skipped="0">
+<testsuite tests="2" failures="1" name="pe.edu.pucp.softpub.db.DBManagerTest" time="0.302" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="22.0.2+9-70"/>
@@ -62,8 +62,7 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="pe.edu.pucp.softpub.db.DBManagerTest" name="pe.edu.pucp.softpub.db.DBManagerTest.testGetInstance" time="0.008"/>
-  <testcase classname="pe.edu.pucp.softpub.db.DBManagerTest" name="pe.edu.pucp.softpub.db.DBManagerTest.testGetConnection" time="0.358">
+  <testcase classname="pe.edu.pucp.softpub.db.DBManagerTest" name="pe.edu.pucp.softpub.db.DBManagerTest.testGetConnection" time="0.302">
     <failure message="expected: not &lt;null&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: not &lt;null&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
@@ -80,4 +79,5 @@
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
 </system-err>
   </testcase>
+  <testcase classname="pe.edu.pucp.softpub.db.DBManagerTest" name="pe.edu.pucp.softpub.db.DBManagerTest.testGetInstance" time="0"/>
 </testsuite>
